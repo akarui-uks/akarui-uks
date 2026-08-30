@@ -16,13 +16,6 @@ Passionate about embedded systems, robotics, digital logic design, and low-level
 - 🤖 **Robotics:** Co-developed an RC bot and secured 1st place in Robo Hockey at the **TechnoXian Zonal Robotics Championship (2026)**.
 
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
