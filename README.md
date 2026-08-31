@@ -21,4 +21,5 @@ Passionate about embedded systems, robotics, digital logic design, and low-level
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/myprofile](https://www.linkedin.com/in/ujjwal-kr-swargiary-53b837354/)
-- **Portfolio / Email:** akarui@myyahoo.com
+- **Portfolio:** omabedor.space
+- **Email:** akarui@myyahoo.com
